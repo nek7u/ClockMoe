@@ -2,7 +2,7 @@
 ## ClockMoe
 Digital clock skin for [Rainmeter](https://www.rainmeter.net/).  
 Rainmeter is a desktop customization tool for Windows.  
-![](https://raw.githubusercontent.com/nek7u/ClockMoe/master/m/Shadow_dark_light.png)
+![](https://raw.githubusercontent.com/nek7u/ClockMoe/master/m/Shadow_dark_light2.png)
 
 ### Feature
 - Digital clock for Windows desktop.
