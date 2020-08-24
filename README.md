@@ -21,4 +21,7 @@ SHA256 `70e4e03c0bcee630da79380913d024f6b82d60f9ba2a57bc7e3a55c1f5d86a3e`
 - Right click to access the option settings.
 - Scroll the mouse wheel button to resize the skin.
 - Middle click to change the clock style.
-
+### Credits
+- [DSEG Font Family](https://github.com/keshikan/DSEG) v0.46(2020-03-15) by [keshikan](https://www.keshikan.net/fonts-e.html)
+- Lua script for synchronized with os clock, millisecond, [T-Minus](https://forum.rainmeter.net/viewtopic.php?t=18850) by [killall-q](https://www.deviantart.com/killall-q)
+- [Advanced context menus](https://forum.rainmeter.net/viewtopic.php?f=119&t=20050) by [jsmorley](https://github.com/jsmorley)
