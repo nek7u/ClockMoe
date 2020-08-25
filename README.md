@@ -13,10 +13,10 @@ Rainmeter is a desktop customization tool for Windows.
 - [ClockMoe_20200825.rmskin](https://github.com/nek7u/ClockMoe/releases/download/2020-08-25/ClockMoe_20200825.rmskin) (100 KB)  
 SHA256 `59505c678b8c64a38d9f7cd92496845152ead73dcbcd3731ba6caedb8f985014`
 ### Change log
- **2020-08-25**  
+ #### 2020-08-25
  * Fixed wrong code about "Display seconds".  
  
- **2020-08-24**  
+ #### 2020-08-24
  - Initial release.
 ### Install & Activate the skin
 - If you don't have Rainmeter installed, download and install the [Rainmeter](https://www.rainmeter.net/) application first.
