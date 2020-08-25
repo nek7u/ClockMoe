@@ -14,8 +14,7 @@ Rainmeter is a desktop customization tool for Windows.
 SHA256 `59505c678b8c64a38d9f7cd92496845152ead73dcbcd3731ba6caedb8f985014`
 ### Change log
  #### 2020-08-25
- * Fixed wrong code about "Display seconds".  
- 
+ * Fixed wrong code about "Display seconds".
  #### 2020-08-24
  - Initial release.
 ### Install & Activate the skin
