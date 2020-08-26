@@ -6,7 +6,7 @@ Rainmeter is a desktop customization tool for Windows.
 https://forum.rainmeter.net/viewtopic.php?t=35913  
 ![](https://raw.githubusercontent.com/nek7u/ClockMoe/master/m/sample.20200824.png)
 ### Features
-- Digital clock for Windows desktop.
+- Digital clock for Windows desktop. Rainmeter skin.
 - Synchronized with the Windows system clock.
 - 12-hour/24-hour clock settings.
 ### Download
