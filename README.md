@@ -13,12 +13,12 @@ https://forum.rainmeter.net/viewtopic.php?t=35913
 - [ClockMoe_20200828.rmskin](https://github.com/nek7u/ClockMoe/releases/download/2020-08-28/ClockMoe_20200828.rmskin) (106 KB, github.com)  
 SHA256 `36cf51e31f1dff9fedbfb3153151b4670997910edf556793a2fb8fe9a6ad2cee`
 ### Change log
- #### 2020-08-28
- + Added **Skin.Standard.HMS.ini**, available some fonts included with Windows.
- #### 2020-08-25
- * Fixed wrong code about "Display seconds".
- #### 2020-08-24
- - Initial release.
+* 2020-08-28
+  + Added **Skin.Standard.HMS.ini**, available some fonts included with Windows.
+* 2020-08-25
+  * Fixed wrong code about "Display seconds".
+* 2020-08-24
+  + Initial release.
 ### Install & Activate the skin
 - If you don't have Rainmeter installed, download and install the [Rainmeter](https://www.rainmeter.net/) application first.
 1. Double click the downloaded ClockMoe_xxxx.rmskin and [Install].
