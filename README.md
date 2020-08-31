@@ -24,7 +24,7 @@ SHA256 `36cf51e31f1dff9fedbfb3153151b4670997910edf556793a2fb8fe9a6ad2cee`
 1. Double click the downloaded ClockMoe_xxxx.rmskin and [Install].
 2. Click the Rainmeter icon at the Bottom-right of desktop.
 3. [Manage Rainmeter] window > [Skins] tab
-4. Select the **ClockMoe\Digital\Skin.Shadow.HMS.ini** and [Load]
+4. Select the **ClockMoe\Digital\Skin.Standard.HMS.ini** and [Load]
 ### Usage
 - Right click to access the option settings.
 - Scroll the mouse wheel button to resize the skin.
