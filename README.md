@@ -12,7 +12,7 @@ https://forum.rainmeter.net/viewtopic.php?t=35913
 - 12-hour/24-hour clock settings.
 ### Download
 - [ClockMoe_20200904.rmskin](https://github.com/nek7u/ClockMoe/releases/download/2020-09-04/ClockMoe_20200904.rmskin) (168 KB, github.com)  
-SHA256 `5fc2e3d5e58a8379f62cf0ffd1cd3423a2021a91de921f67209309d520d415d4`
+SHA256 `c294d8112a34cb3acf1a7443a7684d7ee8249b4beb3677acab39f10773692239`
 ### Change log
 * 2020-09-04
   * Applyed a vertically centered colon.
