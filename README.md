@@ -15,7 +15,7 @@ https://forum.rainmeter.net/viewtopic.php?t=35913
 SHA256 `c294d8112a34cb3acf1a7443a7684d7ee8249b4beb3677acab39f10773692239`
 ### Change log
 * 2020-09-04
-  * Applyed a vertically centered colon.
+  * Applied a vertically centered colon.
 * 2020-09-01
   + Added **Date** skin and **Day of the Week** skin.
 * 2020-08-28
