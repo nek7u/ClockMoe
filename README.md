@@ -14,6 +14,8 @@ https://forum.rainmeter.net/viewtopic.php?t=35913
 - [ClockMoe_20200901.rmskin](https://github.com/nek7u/ClockMoe/releases/download/2020-09-01/ClockMoe_20200901.rmskin) (126 KB, github.com)  
 SHA256 `5fc2e3d5e58a8379f62cf0ffd1cd3423a2021a91de921f67209309d520d415d4`
 ### Change log
+* 2020-09-04
+  * Applyed a vertically centered colon.
 * 2020-09-01
   + Added **Date** skin and **Day of the Week** skin.
 * 2020-08-28
