@@ -11,7 +11,7 @@ https://forum.rainmeter.net/viewtopic.php?t=35913
 - Synchronized with the Windows system clock.
 - 12-hour/24-hour clock settings.
 ### Download
-- [ClockMoe_20200901.rmskin](https://github.com/nek7u/ClockMoe/releases/download/2020-09-01/ClockMoe_20200901.rmskin) (126 KB, github.com)  
+- [ClockMoe_20200904.rmskin](https://github.com/nek7u/ClockMoe/releases/download/2020-09-04/ClockMoe_20200904.rmskin) (168 KB, github.com)  
 SHA256 `5fc2e3d5e58a8379f62cf0ffd1cd3423a2021a91de921f67209309d520d415d4`
 ### Change log
 * 2020-09-04
