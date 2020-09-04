@@ -1,7 +1,7 @@
 <!-- https://guides.github.com/features/mastering-markdown/ -->
 ![](https://raw.githubusercontent.com/nek7u/ClockMoe/master/m/Badge-Windows10.png) [![Rainmeter](https://raw.githubusercontent.com/nek7u/ClockMoe/master/m/Badge-Rainmeter.png)](https://www.rainmeter.net/)
 ## ClockMoe
-Digital clock skin for [Rainmeter](https://www.rainmeter.net/).  
+Digital clock [skin](https://docs.rainmeter.net/manual/getting-started/#WhatIsASkin) for [Rainmeter](https://www.rainmeter.net/).  
 Rainmeter is a desktop customization tool for Windows.  
 https://forum.rainmeter.net/viewtopic.php?t=35913  
 ![](https://raw.githubusercontent.com/nek7u/ClockMoe/master/m/ClockMoe_preview.png)  
