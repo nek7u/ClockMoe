@@ -29,14 +29,14 @@ SHA256 `13bf3779cc02837bfd0e6f30af15da3ea795a026ab15d3ca04956207a9987864`
   + Initial release.
 ### Install & Activate the skin
 - If you don't have Rainmeter installed, download and install the [Rainmeter](https://www.rainmeter.net/) application first.
-1. Double click the downloaded ClockMoe_xxxx.rmskin and [Install].
+1. Double-click the downloaded ClockMoe_xxxx.rmskin and [Install].
 2. Click the Rainmeter icon at the Bottom-right of desktop.
 3. [Manage Rainmeter] window > [Skins] tab
 4. Select the **ClockMoe\Digital\Skin.Standard.HMS.ini** and [Load]
 ### Usage
-- Right click to access the option settings.
+- Right-click to access the option settings.
 - Scroll the mouse wheel button to resize the skin.
-- Middle click to change the clock style.
+- Middle-click to change the clock style.
 ### Credits
 - [DSEG Font Family](https://github.com/keshikan/DSEG) v0.46(2020-03-15) by [keshikan](https://www.keshikan.net/fonts-e.html)
 - Lua script for synchronized with os clock, millisecond, [T-Minus](https://forum.rainmeter.net/viewtopic.php?t=18850) by [killall-q](https://www.deviantart.com/killall-q)
