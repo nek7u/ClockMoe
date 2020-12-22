@@ -12,9 +12,12 @@ https://forum.rainmeter.net/viewtopic.php?t=35913
 - Synchronized with the Windows system clock.
 - 12-hour/24-hour clock settings.
 ### Download
-- [ClockMoe_20200909.rmskin](https://github.com/nek7u/ClockMoe/releases/download/2020-09-09/ClockMoe_20200909.rmskin) (269 KB, github.com)  
-SHA256 `13bf3779cc02837bfd0e6f30af15da3ea795a026ab15d3ca04956207a9987864`
+- [ClockMoe_20201223.rmskin](https://github.com/nek7u/ClockMoe/releases/download/2020-12-23/ClockMoe_20201223.rmskin) (268 KB, github.com)  
+SHA256 `1f2c5be2e0b74c8714788c424d88787d626a7d8478b9f236030d74e134e7313e`
 ### Changelog
+* 2020-12-23
+  * Fixed Leading zero setting doesn't be applied immediately.
+  * Fixed Text padding.
 * 2020-09-09
   * Changed text padding, text shadow, etc.
 * 2020-09-04
@@ -32,7 +35,7 @@ SHA256 `13bf3779cc02837bfd0e6f30af15da3ea795a026ab15d3ca04956207a9987864`
 1. Double-click the downloaded ClockMoe_xxxx.rmskin and [Install].
 2. Click the Rainmeter icon at the Bottom-right of desktop.
 3. [Manage Rainmeter] window > [Skins] tab
-4. Select the **ClockMoe\Digital\Skin.Standard.HMS.ini** and [Load]
+4. Select the **ClockMoe\Digital\Skin.ini** and [Load]
 ### Usage
 - Right-click to access the option settings.
 - Scroll the mouse wheel button to resize the skin.
@@ -40,4 +43,4 @@ SHA256 `13bf3779cc02837bfd0e6f30af15da3ea795a026ab15d3ca04956207a9987864`
 ### Credits
 - [DSEG Font Family](https://github.com/keshikan/DSEG) v0.46(2020-03-15) by [keshikan](https://www.keshikan.net/fonts-e.html)
 - Lua script for synchronized with os clock, millisecond, [T-Minus](https://forum.rainmeter.net/viewtopic.php?t=18850) by [killall-q](https://www.deviantart.com/killall-q)
-- [Advanced context menus](https://forum.rainmeter.net/viewtopic.php?f=119&t=20050) by [jsmorley](https://github.com/jsmorley)
+- [Advanced context menus](https://forum.rainmeter.net/viewtopic.php?t=20050) by [jsmorley](https://github.com/jsmorley)
