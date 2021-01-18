@@ -12,9 +12,11 @@ https://forum.rainmeter.net/viewtopic.php?t=35913
 - Synchronized with the Windows system clock.
 - 12-hour/24-hour clock settings.
 ### Download
-- [ClockMoe_20201223.rmskin](https://github.com/nek7u/ClockMoe/releases/download/2020-12-23/ClockMoe_20201223.rmskin) (268 KB, github.com)  
-SHA256 `1f2c5be2e0b74c8714788c424d88787d626a7d8478b9f236030d74e134e7313e`
+- [ClockMoe_20210119.rmskin](https://github.com/nek7u/ClockMoe/releases/download/2021-01-19/ClockMoe_20210119.rmskin) (267 KB, github.com)  
+SHA256 `b6f541054deda80e238734af2fab4a4d2aa23640e2f34fe446c1734ab82d126d`
 ### Changelog
+* 2021-01-19
+  + Open `https://time.is/` in a browser by double-clicking the skin. 
 * 2020-12-23
   * Fixed Leading zero setting doesn't be applied immediately.
   * Fixed Text padding.
@@ -40,6 +42,7 @@ SHA256 `1f2c5be2e0b74c8714788c424d88787d626a7d8478b9f236030d74e134e7313e`
 - Right-click to access the option settings.
 - Scroll the mouse wheel button to resize the skin.
 - Middle-click to change the clock style.
+- Double-click to open `https://time.is/` <default> in a browser. 
 ### Credits
 - [DSEG Font Family](https://github.com/keshikan/DSEG) v0.46(2020-03-15) by [keshikan](https://www.keshikan.net/fonts-e.html)
 - Lua script for synchronized with os clock, millisecond, [T-Minus](https://forum.rainmeter.net/viewtopic.php?t=18850) by [killall-q](https://www.deviantart.com/killall-q)
