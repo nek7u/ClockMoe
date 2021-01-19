@@ -35,7 +35,7 @@ SHA256 `b6f541054deda80e238734af2fab4a4d2aa23640e2f34fe446c1734ab82d126d`
 ### Install & Activate the skin
 - If you don't have Rainmeter installed, download and install the [Rainmeter](https://www.rainmeter.net/) application first.
 1. Double-click the downloaded ClockMoe_xxxx.rmskin and [Install].
-2. Click the Rainmeter icon at the Bottom-right of desktop.
+2. Click the Rainmeter icon at the bottom-right of desktop.
 3. [Manage Rainmeter] window > [Skins] tab
 4. Select the **ClockMoe\Digital\Skin.ini** and [Load]
 ### Usage
