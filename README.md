@@ -27,7 +27,7 @@ SHA256 `b6f541054deda80e238734af2fab4a4d2aa23640e2f34fe446c1734ab82d126d`
 * 2020-09-01
   + Added **Date** skin and **Day of the Week** skin.
 * 2020-08-28
-  + Added **Skin.Standard.HMS.ini**, available some fonts included with Windows.
+  + Added Skin.ini, available some fonts included with Windows.
 * 2020-08-25
   * Fixed wrong code about "Display seconds".
 * 2020-08-24
