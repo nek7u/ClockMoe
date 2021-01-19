@@ -14,7 +14,7 @@ https://forum.rainmeter.net/viewtopic.php?t=35913
 ### Download
 - [ClockMoe_20210119.rmskin](https://github.com/nek7u/ClockMoe/releases/download/2021-01-19/ClockMoe_20210119.rmskin) (267 KB, github.com)  
 SHA256 `b6f541054deda80e238734af2fab4a4d2aa23640e2f34fe446c1734ab82d126d`
-### Changelog
+### Changelog `(YYYY-MM-DD)`
 * 2021-01-19
   + Open `https://time.is/` in a browser by double-clicking the skin. 
 * 2020-12-23
