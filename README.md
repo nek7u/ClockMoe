@@ -12,9 +12,11 @@ https://forum.rainmeter.net/viewtopic.php?t=35913
 - Synchronized with the Windows system clock.
 - 12-hour/24-hour clock settings.
 ### Download
-- [ClockMoe_20210119.rmskin](https://github.com/nek7u/ClockMoe/releases/download/2021-01-19/ClockMoe_20210119.rmskin) (267 KB, github.com)  
-SHA256 `b6f541054deda80e238734af2fab4a4d2aa23640e2f34fe446c1734ab82d126d`
+- [ClockMoe_20210203.rmskin](https://github.com/nek7u/ClockMoe/releases/download/2021-02-03/ClockMoe_20210203.rmskin) (263 KB, github.com)  
+SHA256 `46506a625c1c42f7faadea22a717bd0b34b32257e1e7634c9607d04ed51f0d2a`
 ### Changelog `(YYYY-MM-DD)`
+* 2021-02-03
+  * Fixed a wrong code in the context menu files.
 * 2021-01-19
   + Open `https://time.is/` in a browser by double-clicking the skin. 
 * 2020-12-23
@@ -39,7 +41,7 @@ SHA256 `b6f541054deda80e238734af2fab4a4d2aa23640e2f34fe446c1734ab82d126d`
 3. [Manage Rainmeter] window > [Skins] tab
 4. Select the **ClockMoe\Digital\Skin.ini** and [Load]
 ### Usage
-- Right-click to access the option settings.
+- Right-click the skin to access the option settings.
 - Scroll the mouse wheel button to resize the skin.
 - Middle-click to change the clock style.
 - Double-click to open `https://time.is/` <default> in a browser. 
