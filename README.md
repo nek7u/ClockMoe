@@ -42,7 +42,7 @@ SHA256 `46506a625c1c42f7faadea22a717bd0b34b32257e1e7634c9607d04ed51f0d2a`
 4. Select the **ClockMoe\Digital\Skin.ini** and [Load]
 ### Usage
 - Right-click the skin to access the option settings.
-- Scroll the mouse wheel button to resize the skin.
+- Mouse wheel over the skin to change the size.
 - Middle-click to change the clock style.
 - Double-click to open `https://time.is/` <default> in a browser. 
 ### Credits
